@@ -22,7 +22,7 @@ function Advisors() {
             </h4>
           </div>
           <ul class="social">
-            <a href="mailto:official.Vivek@gmail.com" className="message">
+            <a href="mailto:official.Omkar@gmail.com" className="message">
               <button>Message</button>
             </a>
           </ul>
@@ -44,7 +44,7 @@ function Advisors() {
             </h4>
           </div>
           <ul class="social">
-            <a href="mailto:official.Vivek@gmail.com" className="message">
+            <a href="mailto:official.Akhil@gmail.com" className="message">
               <button>Message</button>
             </a>
           </ul>
