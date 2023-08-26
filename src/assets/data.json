@@ -1,0 +1,51 @@
+{
+    "university": [
+      {
+        "title": "Cambridge University",
+        "description": "The University of Cambridge is a public collegiate research university in Cambridge, England. Founded in 1209.",
+        "imgSrc": "https://i.huffpost.com/gen/1645164/images/o-CAMBRIDGE-UNIVERSITY-facebook.jpg"
+      },
+  
+      {
+        "title": "Harvard University",
+        "description": "Harvard University is a private Ivy League research university in Cambridge, Massachusetts. Founded in 1636.",
+        "imgSrc": "https://www.omnihotels.com/-/media/images/globals/cityshots/boston-harvard-university-000058925298.jpg?h=660&la=en&w=1170"
+      },
+      {
+        "title": "University of California",
+        "description": "The University of California is a public land-grant research university system in the U.S. state of California, 1868.",
+        "imgSrc": "https://www.gannett-cdn.com/-mm-/6f6c38ec682492fcb2cbb080bda055e6b66320b6/c=0-0-1365-768&r=x1683&c=3200x1680/local/-/media/2018/05/23/USATODAY/usatsports/university-of-california-2009.jpg"
+      },
+      {
+        "title": "ETH Zurich",
+        "description": "ETH Zurich is a public research university in Zürich, Switzerland. Founded by the Swiss federal government in 1854.",
+        "imgSrc": "https://ethz.ch/en/news-and-events/eth-news/news/2018/09/remaining-among-the-best/_jcr_content/news_content/fullwidthimage/image.imageformat.fullwidth.857081471.jpg"
+      },
+      {
+        "title": "Max Planck",
+        "description": "Founded in 1911 as the Kaiser Wilhelm Society in honor of its former president, theoretical physicist Max Planck.",
+        "imgSrc": "https://felix-jonas.net/sites/default/files/2017-12/muenchen_klinik_fuer_psychiatrie_max_planck_1_visualisierung.jpg"
+      },
+      {
+        "title": "University of Edinburgh",
+        "description": "The University of Edinburgh is a public research university based in Edinburgh, Scotland and officially opened in 1583.",
+        "imgSrc": "https://a.travel-assets.com/findyours-php/viewfinder/images/res60/149000/149453-University-Of-Edinburgh.jpg"
+      },
+      {
+        "title": "John's Hopkins",
+        "description": "Johns Hopkins University is a private research university in Baltimore, Maryland. Founded in 1876. ",
+        "imgSrc": "https://i.ytimg.com/vi/L_XVAX-cngM/maxresdefault.jpg"
+      },
+      {
+        "title": "University of Illinois",
+        "description": "The University of Illinois is a public land-grant research university in Champaign and Urbana, Illinois and was founded in 1867.",
+        "imgSrc": "https://i1.wp.com/oyaschool.com/wp-content/uploads/2018/10/University-of-Illinois-at-Chicago_cover.jpg?fit=1024%2C537&ssl=1"
+      },
+      {
+        "title": "Humboldt University",
+        "description": "The Humboldt University of Berlin is a public research university in the central borough of Mitte in Berlin, Germany - 1810.",
+        "imgSrc": "http://www.universaladmission.com/wp-content/uploads/2020/08/humboldt-university-berlin.8681e46-844x430-1.jpg"
+      }
+    ] 
+  } 
+

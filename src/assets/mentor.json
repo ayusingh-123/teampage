@@ -1,0 +1,64 @@
+{
+    "person": [
+      {
+        "title": "Piyush Verma",
+        "university": "IISER Pune",
+        "imgSrc": "https://www.sciastra.com/new_admin/teams/files/Piyush_Verma_biology.jpg"
+      },
+      {
+        "title": "Mandar Tornekar",
+        "university": "GMC Dhule",
+        "imgSrc": "https://www.sciastra.com/new_admin/teams/files/Kedar_Tornekar1.jpg"
+      },
+      {
+        "title": "Sehasree Mohanta",
+        "university": "IACS",
+        "imgSrc": "https://www.sciastra.com/new_admin/teams/files/Sehasree_Mohanta.jpg"
+      },
+      {
+        "title": "Aditya Nayak",
+        "university": "IISER Mohali",
+        "imgSrc": "https://www.sciastra.com/new_admin/teams/files/Aditya%20Nayak_Biology.jpeg"
+      },
+      {
+        "title": "Siddhart Bhatt",
+        "university": "IISER Thiruvananthapuram",
+        "imgSrc": "https://www.sciastra.com/new_admin/teams/files/Siddharth_Bhatt_physics.jpg"
+      },
+      {
+        "title": "Sagar Rathore",
+        "university": "IISER Berhampur",
+        "imgSrc": "https://www.sciastra.com/new_admin/teams/files/Sagar_Rathore_physics.jpg"
+      },
+      {
+        "title": "Abhay Gupta",
+        "university": "IIT Bombay",
+        "imgSrc": "https://www.sciastra.com/new_admin/teams/files/Abhay_Gupta_physics.jpg"
+      },
+      {
+        "title": "Saumya Shisodiya",
+        "university": "HBTU Kanpur",
+        "imgSrc": "https://www.sciastra.com/new_admin/teams/files/Saumya_Shisodiya_mathematics.jpg"
+      },
+      {
+        "title": "Parth Kumar Singh",
+        "university": "IIT,Jodhpur",
+        "imgSrc": "https://www.sciastra.com/new_admin/teams/files/Parth_Singh.jpg"
+      },
+      {
+        "title": "Veena Sri",
+        "university": "IISER TVM",
+        "imgSrc": "https://www.sciastra.com/new_admin/teams/files/Veena_Sri_mathematics.jpg"
+      },
+      {
+        "title": "Shruti",
+        "university": "CEBS,Mumbai",
+        "imgSrc": "https://www.sciastra.com/new_admin/teams/files/SHRUTI_GUPTA_chemistry.jpg"
+      },
+      {
+        "title": "Anshuman Patra",
+        "university": "IISER, Berhampur",
+        "imgSrc": "https://www.sciastra.com/new_admin/teams/files/Anshuman_Patra_chemistry.jpg"
+      }
+    ] 
+  } 
