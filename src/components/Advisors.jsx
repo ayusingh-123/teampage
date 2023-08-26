@@ -22,7 +22,9 @@ function Advisors() {
             </h4>
           </div>
           <ul class="social">
-            <li></li>
+            <a href="mailto:official.Vivek@gmail.com" className="message">
+              <button>Message</button>
+            </a>
           </ul>
         </div>
 
@@ -42,7 +44,9 @@ function Advisors() {
             </h4>
           </div>
           <ul class="social">
-            <li></li>
+            <a href="mailto:official.Vivek@gmail.com" className="message">
+              <button>Message</button>
+            </a>
           </ul>
         </div>
 
@@ -62,7 +66,9 @@ function Advisors() {
             </h4>
           </div>
           <ul class="social">
-            <li></li>
+            <a href="mailto:official.Vivek@gmail.com" className="message">
+              <button>Message</button>
+            </a>
           </ul>
         </div>
       </div>
