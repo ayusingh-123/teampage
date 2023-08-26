@@ -1,3 +1,9 @@
+
+
+# Website Link : https://teampage-sigma.vercel.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -7,6 +13,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+
+
+![Screenshot (944)](https://github.com/ayusingh-123/teampage/assets/83396369/d7486656-7e60-4eea-b859-acde546ed94c)
+
+![Screenshot (945)](https://github.com/ayusingh-123/teampage/assets/83396369/ac8547c3-0f70-4367-9b79-13e23ee86387)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
